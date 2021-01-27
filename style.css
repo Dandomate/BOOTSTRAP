@@ -1,8 +1,10 @@
-body{
-    background-image:url(hatter.jpg);
+body {
+    background-image: url(hatter.jpg);
     background-repeat: no-repeat;
-    background-size:cover ;
+    background-size: cover;
 }
+
 .animalimg {
     height: 200px;
     background: #aaa;
+}
